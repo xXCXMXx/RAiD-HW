@@ -1,0 +1,5 @@
+Primary endpoint:
+https://storagehtml.z23.web.core.windows.net/
+
+Secondary endpoint:
+https://storagehtml-secondary.z23.web.core.windows.net/
